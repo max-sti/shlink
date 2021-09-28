@@ -1,7 +1,6 @@
 .idea
 build
 !docker/build
-composer.lock
 composer.phar
 vendor/
 data/database.sqlite
